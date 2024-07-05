@@ -1,0 +1,2 @@
+# Advanced-Statistics-project---Comprehensive-Data-Analysis
+Analyzed survey data from 62 CMSU undergraduates to uncover student demographics and behaviors, and identify influential factors. statistical analysis of moisture content on shingles .Examined salary differentials by educational qualification and occupation in a sample individuals, providing strategic insights for workforce management decisions.
